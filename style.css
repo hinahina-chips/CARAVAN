@@ -9,7 +9,7 @@
 a{
     text-decoration: none;/*下線表示なし*/
 }
-
+/**/
 header, nav, h2, .main-visual, footer{
     font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif; 
 }/*左から順に優先的にフォントが割り当てられる、フォントが端末にない場合に右のフォントが利用される、日本語、半角の時は""で囲む*/
