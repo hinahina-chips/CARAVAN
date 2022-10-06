@@ -62,7 +62,7 @@ header .heading{
     background-position: center;/*背景画像を中央に配置 */
 }
 
-.main-visual-content{
+.main-visual-content{/**/
     width: 40%; /*横幅40%　幅が変わってもレイアウトを保てるように */
     height: 300px; /*高さ300px(親の高さ) */
     background-color: rgba(0, 0, 0, 0.5); /*背景色を半透明の黒にする　4番目の引数が透明度、１～０ */
